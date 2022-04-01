@@ -1,0 +1,35 @@
+.root {
+  width: 300px;
+  background-color: rgb(232 232 232);
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 10px 4px;
+  flex: 0 auto;
+  min-width: 300px;
+  height: fit-content;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.iconContainer {
+  cursor: pointer;
+}
+
+.title {
+  margin: 0;
+}
+
+.list_container {
+  padding: 5px;
+}
+
+.card_template {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+}

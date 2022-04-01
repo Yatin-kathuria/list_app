@@ -1,0 +1,24 @@
+.root {
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.iconContainer {
+  cursor: pointer;
+}
+
+.title {
+  margin: 0;
+}
+
+.root p {
+  margin: 10px 0;
+}

@@ -1,0 +1,45 @@
+:root {
+  /* --accent: #e54065;
+  --background: #faf5f9;
+  --border: #cfd2dc;
+  --text: #636363;
+  --filter-button: #e1e4ea;
+  --read-background: #f2f2f2;
+  --white: #fff; */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Fredoka', sans-serif;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+
+/* Flex */
+.d-flex {
+  display: flex;
+}
+
+.justify-c-center {
+  justify-content: center;
+}
+
+.align-i-center {
+  align-items: center;
+}
+
+/* Fonts */
+.bold {
+  font-weight: bold;
+}

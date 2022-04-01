@@ -1,0 +1,17 @@
+.root {
+  width: 100vw;
+  display: flex;
+  gap: 10px;
+  overflow-x: scroll;
+  min-height: 100vh;
+}
+
+.list_template {
+  width: 300px;
+  background-color: rgb(232 232 232);
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 10px 4px;
+  min-width: 300px;
+  height: fit-content;
+}
